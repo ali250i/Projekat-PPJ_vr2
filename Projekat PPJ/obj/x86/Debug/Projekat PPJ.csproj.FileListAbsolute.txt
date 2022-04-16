@@ -1,0 +1,55 @@
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form1.resources
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Properties.Resources.resources
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csproj.GenerateResource.Cache
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\bin\Debug\Projekat PPJ.exe
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\bin\Debug\Projekat PPJ.pdb
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\bin\Debug\MySql.Data.dll
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csprojResolveAssemblyReference.cache
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat PPJ.exe
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat PPJ.pdb
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form2.resources
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form3.resources
+C:\Users\HP Compaq\AppData\Local\Temporary Projects\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form5.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat PPJ.exe
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat PPJ.pdb
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\bin\Debug\Projekat PPJ.exe
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\bin\Debug\Projekat PPJ.pdb
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\bin\Debug\MySql.Data.dll
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csprojResolveAssemblyReference.cache
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form1.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form2.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form3.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form4.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form5.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Properties.Resources.resources
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csproj.GenerateResource.Cache
+C:\Users\HP Compaq\Desktop\Projekat PPJ\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form6.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat PPJ.exe
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat PPJ.pdb
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\bin\Debug\Projekat PPJ.exe
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\bin\Debug\Projekat PPJ.pdb
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\bin\Debug\MySql.Data.dll
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csprojResolveAssemblyReference.cache
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form1.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form2.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form3.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form4.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form5.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form6.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Properties.Resources.resources
+C:\Users\alilj\Desktop\Projekat-PPJ-main\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csproj.GenerateResource.Cache
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat PPJ.exe
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat PPJ.pdb
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\bin\Debug\Projekat PPJ.exe
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\bin\Debug\Projekat PPJ.pdb
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\bin\Debug\MySql.Data.dll
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csprojResolveAssemblyReference.cache
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form1.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form2.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form3.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form4.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form5.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Form6.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Properties.Resources.resources
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat PPJ.csproj.GenerateResource.Cache
+C:\Users\alilj\Desktop\Projekat-PPJ_vr1-master\Projekat PPJ\obj\x86\Debug\Projekat_PPJ.Ucitavanje.resources
